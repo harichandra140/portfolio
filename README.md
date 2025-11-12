@@ -17,17 +17,17 @@ Front End Developer @ Enbridge (May 2017- July 2019)
 - At Enbridge I Worked on designing, developing, and supporting a web-based enterprise application to streamline operational data management, reporting, and user workflows. The tech stack included Angular Js on Frontend and Java in the backend.
 
 ## Projects
-## Portal
+### Portal
 - The Portal project focused on building a customizable internal dashboard for auditors using React, Redux Toolkit, and Recharts, integrated with Java Spring Boot microservices on AWS. I developed modular, high-performance UI components, implemented role-based views, and optimized data rendering with caching and lazy loading.
 
-## Risk Assessment
+### Risk Assessment
 - In the Risk Assessment project, I designed and developed an Angular 18 application leveraging PrimeNG, Material UI, and NgRx for state management. The project emphasized ADA/WCAG compliance, with accessibility testing through JAWS, Lighthouse, and Access Assistant, and integration of OAuth2/OpenID Connect authentication for secure access.
 
-## AI Audit Assistant
+### AI Audit Assistant
 - For the AI Audit Assistant, I built an AI-driven auditing chatbot using Angular frontend and Spring Boot backend, integrating OpenAI’s LLM API to automate document analysis, auditor Q&A, and compliance insights.
 
-## LRM
+### LRM
 - Worked on designing and developing a comprehensive Single Page Application (SPA) for Wells Fargo’s Liquidity Risk Management division to streamline data monitoring, risk reporting, and operational workflows. Developed responsive and interactive UI using Angular 14, HTML5, SASS/SCSS, PrimeNG, JSON, and Typescript. Designed and developed microservices architecture using Spring Boot, Java 8, Kafka, and MongoDB, following 12-factor app methodology.
 
-## DQV Rule Lab
+### DQV Rule Lab
 - Developed a responsive dashboard application providing real-time visibility into data quality metrics and anomaly tracking. This is built with React for a dynamic, interactive UI and Java/Spring Boot backend services for data aggregation and validation.
