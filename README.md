@@ -1,19 +1,19 @@
 # Full Stack Developer
 
-#### Technical Skills: React, Angular, Java, Javascript, AWS 
+### Technical Skills: React, Angular, Java, Javascript, AWS 
 
 ### Education
 Masters in Computer Science, University of Cincinnati (April 2021)
 Batchelors in Computer Science, Acharya Nagarjuna University (May 2017)
 
 ### Work Experience
-Full Stack Developer @ Bank of America (Oct 2023- Present)
+#### Senior Full Stack Developer @ Bank of America (Oct 2023- Present)
 - At Bank of America, I worked on multiple large-scale enterprise applications for Audit Technology including the Portal, Risk Assessment, and AI Audit Assistant platforms. I led the design and development of enterprise-grade web applications using React (Redux Toolkit, React Hooks, Recharts) and Angular 16/18 (Material UI, PrimeNG, NgRx) integrated with robust Java Spring Boot microservices.
 
-Full Stack Developer @ Wells Fargo (Nov 2020- Oct 2023)
+#### Full Stack Developer @ Wells Fargo (Nov 2020- Oct 2023)
 - At Wells Fargo I was part of the team that focused on monitoring, analyzing, and managing the bank’s liquidity positions, funding sources, and risk exposure across business units to ensure regulatory compliance and financial stability. I worked on multiple applications which were built using Angular 14+, React, Java 8, and Spring Boot for developing scalable front-end and back-end services
 
-Front End Developer @ Enbridge (May 2017- July 2019)
+#### Front End Developer @ Enbridge (May 2017- July 2019)
 - At Enbridge I Worked on designing, developing, and supporting a web-based enterprise application to streamline operational data management, reporting, and user workflows. The tech stack included Angular Js on Frontend and Java in the backend.
 
 ## Projects
